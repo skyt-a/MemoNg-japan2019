@@ -30,6 +30,7 @@ https://docs.google.com/presentation/d/1wT-aZ-Dh6v1QJGBUPL1tW4g0mkxLZ66dSz3dWqMf
 
 リモートプロシージャコール 
 
+https://github.com/chybie/ng-my
 ## monorepo
 Lerna
 greenkeeeer?
@@ -44,3 +45,21 @@ configuration
     replace
     with
 </pre>
+
+## purppetier
+Programmable Google Chrome Browser
+
+## メタタグをSPAでもちゃんと出す
+### prerender-spa-plugin
+
+## Lint自動化
+Husky
+
+## サイト速度
+画像→webp
+
+## フォント
+FOUT
+stykeタグじゃなくてcssの中でimport?
+
+speaker-deck/chybie
