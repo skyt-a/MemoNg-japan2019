@@ -29,3 +29,7 @@ Data Visualization Components?
 https://docs.google.com/presentation/d/1wT-aZ-Dh6v1QJGBUPL1tW4g0mkxLZ66dSz3dWqMf5Is/preview?slide=id.g5c5198e5fa_0_5
 
 リモートプロシージャコール 
+
+## monorepo
+Lerna
+greenkeeeer?
