@@ -33,3 +33,12 @@ https://docs.google.com/presentation/d/1wT-aZ-Dh6v1QJGBUPL1tW4g0mkxLZ66dSz3dWqMf
 ## monorepo
 Lerna
 greenkeeeer?
+
+
+## 環境ごとにファイルを切り替えることができる
+angular.json
+configuration
+ production
+  fileReplacement
+    replace
+    with
