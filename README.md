@@ -36,9 +36,11 @@ greenkeeeer?
 
 
 ## 環境ごとにファイルを切り替えることができる
+<pre>
 angular.json
 configuration
  production
   fileReplacement
     replace
     with
+</pre>
